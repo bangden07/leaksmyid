@@ -1,8 +1,8 @@
 # Site settings
 title: "Leaks My Id"
 description: "Never trust security and privacy in the internet world."
-baseurl: "/leaksmyid"
-url: ""
+baseurl: "/"
+url: "https://leaks.my.id"
 author: "Mr.X"
 
 # Build settings
