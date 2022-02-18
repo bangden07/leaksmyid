@@ -5,6 +5,8 @@ tags: [Domain, Free]
 comment: false
 ---
 
+[[./home](https://leaks.my.id)]
+
 Hai, kami akan membagikan cara kepada Anda. Bagaimana cara mendapatkan domain dengan ekstensi <code>.my.id</code> secara gratis 100%. Mungkin cara ini bisa bekerja dengan baik saat ini.
 
 Sebenarnya cara ini memanfaatkan kupon kode yang dibuat oleh pihak penjual domain sendiri dan tidak menerapkan batasan kepada kode vocer yang sudah mereka buat.
