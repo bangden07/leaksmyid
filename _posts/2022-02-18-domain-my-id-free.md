@@ -13,7 +13,7 @@ Sebenarnya cara ini memanfaatkan kupon kode yang dibuat oleh pihak penjual domai
 
 Kita langsung ke pembahasan:
 
-1. Daftar sebagai pengguna baru atau login apabila sudah memiliki akun di qwords.com.
+1. Daftar sebagai pengguna baru atau login apabila sudah memiliki akun di <code>qwords.com</code>.
 2. Silahkan beli domain dengan ekstensi <code>.my.id</code>.
 3. Ketika berada di halaman cart, silahkan masukan kode vocer ini <code>MYIDPART3</code>.
 4. Boyah, kamu berhasil membeli domain dengan harga Rp.0,- alias gratis.
