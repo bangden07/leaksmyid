@@ -3,4 +3,7 @@ layout: page
 title: About
 ---
 
-Introduce yourself here... so people will know who you are and what you do.. blah..blah..blah..
+  |                  |                           _)      | 
+  |      -_)   _` |  | / (_-<      ` \   |  |     |   _` | 
+ ____| \___| \__,_| _\_\ ___/ _) _|_|_| \_, | _) _| \__,_| 
+                                        ___/               
