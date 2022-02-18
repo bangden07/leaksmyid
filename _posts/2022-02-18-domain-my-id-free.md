@@ -7,15 +7,15 @@ comment: false
 
 [[./home](https://leaks.my.id)]
 
-Hai, kami akan membagikan cara kepada Anda. Bagaimana cara mendapatkan domain dengan ekstensi <code>.my.id</code> secara gratis 100%. Mungkin cara ini bisa bekerja dengan baik saat ini.
+Hi, we are going to share the way with you. How to get a domain with <code>.my.id</code> extension for free 100%. Maybe this way can work well for now.
 
-Sebenarnya cara ini memanfaatkan kupon kode yang dibuat oleh pihak penjual domain sendiri dan tidak menerapkan batasan kepada kode vocer yang sudah mereka buat.
+Actually, this method utilizes a coupon code made by the domain seller himself and does not apply any restrictions to the voucher code that they have created.
 
-Kita langsung ke pembahasan:
+Let's go straight to the discussion:
 
-1. Daftar sebagai pengguna baru atau login apabila sudah memiliki akun di <code>qwords.com</code>.
-2. Silahkan beli domain dengan ekstensi <code>.my.id</code>.
-3. Ketika berada di halaman cart, silahkan masukan kode vocer ini <code>MYIDPART3</code>.
-4. Boyah, kamu berhasil membeli domain dengan harga Rp.0,- alias gratis.
+1. Register as a new user or login if you already have an account at <code>qwords.com</code>.
+2. Please buy a domain with the <code>.my.id</code> extension.
+3. When on the cart page, please enter this voucher code <code>MYIDPART3</code>.
+4. Boy, you managed to buy a domain at a price of Rp.0, - aka free.
 
-Kami tidak tahu sampai kapan cara ini dapat bekerja dengan berhasil.
+We do not know how long this method will work successfully.
